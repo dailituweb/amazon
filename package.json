@@ -1,0 +1,16 @@
+{
+  "name": "launchfast-landing",
+  "version": "1.0.0",
+  "description": "Amazon FBA Product Research Tool",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start -p ${PORT:-3000}"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
+
